@@ -1,10 +1,9 @@
-#include <iostream>
+#include <stdio.h>
 
-
-int main()
-{
-    printf("01000001 01101100 01101001 01110010 01100101 01111010 01100001 01001010 01100001 01100110 01100001 01110010 01101001");
-
-      return 0;
-
+int main() {
+  printf("****\n");
+  printf("***\n");
+  printf("**\n");
+  printf("*\n");
+  return 0;
 }
